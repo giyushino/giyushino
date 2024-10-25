@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giyushino, an undergraduate student at UCLA majoring in applied mathematics. 
-- 👀 I’m interested in machine learning and using it to create engineering projects. 
-- 🌱 I’m currently learning Python and OpenCV. 
+- 👀 I’m interested in machine learning and neural networks
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @allanzhang440@gmail.com or @allan.zhang_ on Instagram. 
 - 😄 Pronouns: He/Him
