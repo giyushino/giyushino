@@ -1,3 +1,3 @@
 junior @ ucla studying applied math, interested in ai/ml
 
-i like inference optimization, data effiency, neovim, helix, and linux
+i like inference optimization, ml training infrastructure, data effiency, neovim, helix, and linux
